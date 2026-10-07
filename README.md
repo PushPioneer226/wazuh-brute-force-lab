@@ -159,7 +159,7 @@ Full details, screenshots, and analysis are in the [incident report](./incident-
 
 ## 📬 Contact
 
-**Trevor** — Aspiring SOC Analyst | Blue Team | Detection Engineering
+**Trevor** — Aspiring Tech Analyst | Blue Team | Detection Engineering
 
 - GitHub: [@PushPioneer226](https://github.com/PushPioneer226)
 
